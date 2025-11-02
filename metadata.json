@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Bloom",
+  "description": "An AI-powered sprite artist that paints tiny, looping 16x16 animations from your descriptions. Describe a moment, and watch it come to life in crisp blocks of color.",
+  "requestFramePermissions": []
+}
